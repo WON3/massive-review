@@ -1,0 +1,1 @@
+delete from pizza where id = $1;
